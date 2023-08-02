@@ -10,3 +10,4 @@ last screen code
 
 attachments[image,audio,video]code
 
+Hiding the last seen
